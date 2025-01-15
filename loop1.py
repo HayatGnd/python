@@ -10,6 +10,8 @@ while i <= number:
         print(f"{i} x {j} = {i * j}")
         j += 1
     i += 1    
+    
+    
 while True:
      number=int(input("please number  :"))
      if number ==-1:
